@@ -1,4 +1,4 @@
 # EasyTestGit
 Repositorio de prueba para el taller de Herramientas de Computación Científica
-## Nombre:
+## Nombre del alumno:
 Bruno Tenorio
